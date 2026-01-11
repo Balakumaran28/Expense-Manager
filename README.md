@@ -6,7 +6,6 @@ Expense Manager is a Java-based command-line application designed to help users 
 
 This project demonstrates practical usage of object-oriented programming, file handling, collections, and exception-safe user input handling in Java.
 
-
 #Features
 
 
