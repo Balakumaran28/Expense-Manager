@@ -118,7 +118,7 @@ Ensure Java is installed (JDK 8 or higher).
 
 Clone the repository:
 
-git clone <repository-url>
+git clone <https://github.com/Balakumaran28/Expense-Manager.git>
 
 
 Navigate to the project directory.
