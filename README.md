@@ -177,5 +177,3 @@ Optional GUI interface
 
 Developed as a hands-on Java learning project focused on clean design, usability, and practical functionality
  
-
-Developed as a hands-on Java learning project focused on clean design, usability, and practical functionality.
