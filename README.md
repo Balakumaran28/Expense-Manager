@@ -1,12 +1,13 @@
 # Expense-Manager
 
-#Overview
+# Overview
 
 Expense Manager is a Java-based command-line application designed to help users record, manage, and analyze daily expenses efficiently. The application supports persistent storage, categorized expense tracking, editing and deletion of records, and basic financial analysis features. It is built using core Java concepts with a clean separation of concerns and robust input validation.
 
 This project demonstrates practical usage of object-oriented programming, file handling, collections, and exception-safe user input handling in Java.
 
-#Features
+
+# Features
 
 
 Add expenses with predefined categories
@@ -34,7 +35,7 @@ User-friendly indexing (1-based indexing for users)
 Exception-safe input handling to prevent crashes
 
 
-#Predefined Expense Categories
+# Predefined Expense Categories
 
 
 The application uses a controlled set of categories to maintain consistency:
@@ -54,18 +55,23 @@ Miscellaneous
 These categories are enforced during both addition and search operations.
 
 
-#Project Structure
+# Project Structure
 
 
 ExpenseManager/
+
 │
+
 ├── Main.java
+
 ├── Expense.java
+
 ├── ExpenseManager.java
+
 └── expense.txt
 
 
-#File Description
+# File Description
 
 
 Main.java
@@ -81,7 +87,7 @@ expense.txt
 Automatically generated file used to store expense data persistently.
 
 
-#Technologies Used
+# Technologies Used
 
 
 Java (Core Java)
@@ -93,7 +99,7 @@ File I/O (BufferedReader, BufferedWriter)
 Object-Oriented Programming principles
 
 
-#How Data Persistence Works
+# How Data Persistence Works
 
 
 All expenses are stored in a local text file (expense.txt).
@@ -105,7 +111,7 @@ Any add, edit, or delete operation updates the file immediately.
 Data remains intact across multiple runs of the application.
 
 
-#How to Run the Project
+# How to Run the Project
 
 
 Ensure Java is installed (JDK 8 or higher).
@@ -137,7 +143,7 @@ Clear prompts guide the user to enter valid data.
 Index bounds are checked before edit and delete operations.
 
 
-#Learning Outcomes
+# Learning Outcomes
 
  
 This project demonstrates:
@@ -153,7 +159,7 @@ Clean command-line user interface design
 Modular and maintainable code structure
 
 
-#Future Enhancements
+# Future Enhancements
 
  
 Weekly and monthly expense analysis
@@ -167,7 +173,9 @@ Improved analytics and summaries
 Optional GUI interface
 
 
-#Author
+# Author
+
+Developed as a hands-on Java learning project focused on clean design, usability, and practical functionality
  
 
 Developed as a hands-on Java learning project focused on clean design, usability, and practical functionality.
